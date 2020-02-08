@@ -1,0 +1,4 @@
+opencv-python>=3.4
+matplotlib>=2.2
+numpy>=1.14
+scikit-image>=0.14.0
